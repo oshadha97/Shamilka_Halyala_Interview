@@ -1,0 +1,15 @@
+E:\Education\.netcore\Projects\CShap\Interview\bin\Debug\net7.0\Interview.exe
+E:\Education\.netcore\Projects\CShap\Interview\bin\Debug\net7.0\Interview.deps.json
+E:\Education\.netcore\Projects\CShap\Interview\bin\Debug\net7.0\Interview.runtimeconfig.json
+E:\Education\.netcore\Projects\CShap\Interview\bin\Debug\net7.0\Interview.dll
+E:\Education\.netcore\Projects\CShap\Interview\bin\Debug\net7.0\Interview.pdb
+E:\Education\.netcore\Projects\CShap\Interview\obj\Debug\net7.0\Interview.csproj.AssemblyReference.cache
+E:\Education\.netcore\Projects\CShap\Interview\obj\Debug\net7.0\Interview.GeneratedMSBuildEditorConfig.editorconfig
+E:\Education\.netcore\Projects\CShap\Interview\obj\Debug\net7.0\Interview.AssemblyInfoInputs.cache
+E:\Education\.netcore\Projects\CShap\Interview\obj\Debug\net7.0\Interview.AssemblyInfo.cs
+E:\Education\.netcore\Projects\CShap\Interview\obj\Debug\net7.0\Interview.csproj.CoreCompileInputs.cache
+E:\Education\.netcore\Projects\CShap\Interview\obj\Debug\net7.0\Interview.dll
+E:\Education\.netcore\Projects\CShap\Interview\obj\Debug\net7.0\refint\Interview.dll
+E:\Education\.netcore\Projects\CShap\Interview\obj\Debug\net7.0\Interview.pdb
+E:\Education\.netcore\Projects\CShap\Interview\obj\Debug\net7.0\Interview.genruntimeconfig.cache
+E:\Education\.netcore\Projects\CShap\Interview\obj\Debug\net7.0\ref\Interview.dll
